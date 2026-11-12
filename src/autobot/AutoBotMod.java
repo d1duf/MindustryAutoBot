@@ -35,9 +35,9 @@ public class AutoBotMod extends Mod {
 
                 if (botEnabled) {
                     // Выводим стандартную плашку-уведомление вверху экрана
-                    Vars.ui.showInfoToast("[green]Бот активирован! Все системы в норме.[]", 3f);
+                    Vars.ui.showInfoToast("[green]START[]", 3f);
                 } else {
-                    Vars.ui.showInfoToast("[scarlet]Бот остановлен.[]", 2f);
+                    Vars.ui.showInfoToast("[scarlet]STOP[]", 2f);
                 }
             }).size(180f, 45f).get();
 

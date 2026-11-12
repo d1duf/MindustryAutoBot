@@ -1,0 +1,8 @@
+displayName: "AutoBot AI"
+name: "autobot-ai"
+author: "diduf"
+main: "autobot.AutoBotMod"
+description: "Автономный бот для развития базы и атаки."
+version: 1.0
+minGameVersion: 146
+java: true
